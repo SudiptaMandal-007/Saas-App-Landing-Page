@@ -13,15 +13,20 @@
     "@tailwindcss/postcss": "^4.1.12",
     "clsx": "^2.1.1",
     "react": "^17.0.2",
+<<<<<<< HEAD
     "react-countup": "^6.5.3",
     "react-dom": "^17.0.2",
+=======
+    "react-dom": "^17.0.2",
+    "react-countup": "^6.5.3",
+>>>>>>> ba85774c336c6ed626bbfe6e772afa6d9fb8a7ec
     "react-scroll": "^1.9.3",
     "react-slidedown": "^2.4.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
-    "@types/react": "^19.1.10",
-    "@types/react-dom": "^19.1.7",
+    "@types/react": "^17.0.52",
+    "@types/react-dom": "^17.0.19",
     "@vitejs/plugin-react": "^5.0.0",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.33.0",
